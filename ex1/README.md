@@ -3,4 +3,4 @@
 با استفاده از میکروکنترلر ATmega32  مداری طراحی و شبیه سازی کنید که 8 ال ای دی به یکی از پورت های آن متصل شده و نحوه روشن/خاموش شدن آن ها با استفاده از دو کلید کنترل شود به این ترتیب که با فشردن کلید 1، ال ای دی ها به ترتیب از شماره 0 به 7 و با فشردن کلید 2، ال ای دی ها به ترتیب از شماره 7 به 0 با فاصله زمانی 100 میلی ثانیه ای روشن شوند.
 
 ## demo
-	![demo](https://raw.githubusercontent.com/sajadkhosravani1/MicroControllerLab/master/ex1/demo.png)
+	![image](https://raw.githubusercontent.com/sajadkhosravani1/MicroControllerLab/master/ex1/demo.png)
