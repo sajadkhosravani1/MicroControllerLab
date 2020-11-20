@@ -3,5 +3,5 @@ Design and simulate a circuit using ATmega32 so that show words and sentences on
 
 
 ## Demo
-![demo](demo.png)
+![demo](demo.gif)
 
